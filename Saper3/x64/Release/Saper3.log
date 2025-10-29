@@ -1,6 +1,0 @@
-﻿  Main.cpp
-  Tile.cpp
-C:\Users\User\source\repos\Saper3\Saper3\Tile.cpp(8,17): error C2086: "sf::Texture texture": zmiana definicji
-C:\Users\User\source\repos\Saper3\Saper3\Tile.cpp(5,17): message : zobacz deklarację „texture”
-C:\Users\User\source\repos\Saper3\Saper3\Tile.cpp(65,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\User\source\repos\Saper3\Saper3\Tile.cpp(65,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
