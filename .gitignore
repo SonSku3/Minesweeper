@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.cache
+*.pdb
+*.obj
+*.tlog
+*.recipe
+*.lastbuildstate
+*.log
+
+# Build directories
+x64/
+x86/
+Debug/
+Release/
+bin/
+build/
+out/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# SFML temporary
+*.exe
+*.ilk
+*.idb
